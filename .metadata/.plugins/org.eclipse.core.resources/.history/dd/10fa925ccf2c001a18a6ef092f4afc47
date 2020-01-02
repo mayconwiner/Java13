@@ -1,0 +1,16 @@
+package com.winer.Conceitos;
+
+public class Aplicacao {
+
+	public static void main(String[] args) {
+		String s = """
+				Maycon douglas 
+				Oliveira da Silva
+				Italo Oliveir da Silva , nascido aos 23 de maio de 2007""";
+		
+		System.out.println(s);
+		 
+
+	}
+
+}

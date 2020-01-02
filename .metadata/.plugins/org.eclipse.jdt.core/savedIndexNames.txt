@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Winer\Videos\java13 fundamentos\.metadata\.plugins\org.eclipse.jdt.core
+222565305.index
+1248545562.index
