@@ -5,12 +5,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-
-/**
- * Classe utilitária para ler dados do console
- * @author Carlos Tosin
- * @version 1.0
- */
+ 
 public class Console {
 
 	/**
